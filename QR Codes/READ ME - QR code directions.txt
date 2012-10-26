@@ -1,0 +1,11 @@
+Goto http://qrcode.kaywa.com/ and enter your URLs as below. 
+Generate an XL sized QR code, right click and "save image as"
+
+
+foursquare: https://foursquare.com/checkin?vid=YOUR_VENUE_ID_GOES_HERE
+
+facebook: http://www.facebook.com/pages/YOUR_PAGE_NAME/NUMBER_GOES_HERE
+
+Google: http://maps.google.com/maps/place?cid=YOUR_PLACE_ID_NUMBER_GOES_HERE
+
+Yelp: http://www.yelp.com/biz/YOUR_YELP_PAGE_NAME_GOES_HERE
